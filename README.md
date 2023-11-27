@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lechros&fontSize=90" />
 
-여기는 공사중입니다...
+Clean code comes from less code
 
 <!--
 **Lechros/Lechros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
