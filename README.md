@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lechros)](https://github.com/anuraghazra/github-readme-stats)
 
-I create what I need and what I desire.
+I create what I need and desire.
 
 
 ## Tools
