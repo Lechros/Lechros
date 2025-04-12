@@ -22,6 +22,14 @@ I create what I need and desire.
 ## Links
 [![Static Badge](https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@lechros/posts)
 
-
 ## Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Lechros&column=5&theme=flat&no-frame=true)
+
+## Repositories (Mini projects)
+- [url-shortener](https://github.com/Lechros/url-shortener): 긴 URL을 짧은 URL로 변환해주는 서비스입니다. (Kotlin Spring)
+- [hangul_regexp](https://github.com/Lechros/hangul_regexp): 한글 regexp를 생성해주는 Go 라이브러리입니다.
+- [psutil](https://github.com/Lechros/psutil): Java로 알고리즘 문제를 풀면서 자주 사용하는 기능을 클래스로 분리하여 정리해두었습니다.
+- [spring-token-login](https://github.com/Lechros/spring-token-login): Spring Security OAuth2로 SPA를 위한 소셜 로그인 + 토큰 로그인을 구현한 예시입니다.
+- [vue-kakao-maps](https://github.com/Lechros/vue-kakao-maps): Kakao Maps API를 vue에서 사용할 수 있도록 도와주는 라이브러리입니다.
+- [malib](https://github.com/Lechros/malib): Maplestory simulation library in TS.
+- [WzJson](https://github.com/Lechros/WzJson): Convert wz data to json (for malib) (C#)
